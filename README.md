@@ -1,7 +1,7 @@
-#rgp-service
+# rgp-service
 
-##Completed work
+## Completed work
 * lombok added
 
-##Work in progress
+## Work in progress
 * setting up OpenAPI
