@@ -1,0 +1,6 @@
+{
+  "productType" : "DFS",
+  "appType" : "DFS",
+  "usStateType" : "AZ",
+/  "sections" : [ "HELP", "PARENTAL_CONTROLS" ]
+}

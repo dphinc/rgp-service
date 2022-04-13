@@ -1,0 +1,13 @@
+package com.fanduel.rgp.service.model.cms;
+
+public enum MenuRgpType {
+    ABOUT,
+    USER_TOOLS,
+    DEPOSIT_THREASHOLD,
+    PARENTAL_CONTROLS,
+    ADDITIONAL_RESOURCES,
+    ACCOUNT_INFORMATION,
+    COMPLAINTS_PROCESS,
+    PRIVACY_POLICY,
+    FEDERAL_PROHIBITIONS_AND_RESTRICTIONS
+}
